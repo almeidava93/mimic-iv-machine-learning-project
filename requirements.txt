@@ -7,3 +7,4 @@ matplotlib
 tabpfn
 catboost
 lightgbm
+torchmetrics
