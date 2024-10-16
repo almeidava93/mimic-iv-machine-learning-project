@@ -2,3 +2,4 @@ venv
 physionet.org
 cleaned_data
 catboost_info
+gnn_data
